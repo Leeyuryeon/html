@@ -1,2 +1,2 @@
 # html
-https://leeyuryeon.github.io/html/html project.html
+https://leeyuryeon.github.io/html/htmlproject.html
